@@ -250,5 +250,5 @@ plt.tight_layout()
 plt.savefig('qpp_sentinel_dashboard.png', dpi=150, bbox_inches='tight')
 plt.show()
 
-print("\\n✅ QPP-Sentinel Prototype Complete!")
+print("\\n QPP-Sentinel Prototype Complete!")
 print(\"Files generated: combined_lightcurves.png, neupert_correlation.png, qpp_sentinel_dashboard.png")
